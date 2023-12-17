@@ -30,4 +30,4 @@ submit_button = st.button("Generate")
 
 if submit_button:
     answer = get_response(input_text, no_of_words, blog_style)
-    st.text(answer)
+    st.write(answer)
