@@ -1,4 +1,4 @@
-##BLOG GENERATION
+# BLOG GENERATION
 
 An application that uses Meta Api for generating blogs by providing the topic , no of words and blog style.
 
